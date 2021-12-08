@@ -5,7 +5,7 @@ module.exports = [
     "languageCode": "af_ZA",
     "languageName": "Afrikaans",
     "languageNativeName": "Afrikaans",
-    "translationRatio": 0.05422876638534746
+    "translationRatio": 0.05404920093374033
   },
   {
     "languageCode": "ar_SA",
@@ -29,37 +29,37 @@ module.exports = [
     "languageCode": "bn_BD",
     "languageName": "Bengali",
     "languageNativeName": "বাংলা",
-    "translationRatio": 0.06536182438498828
+    "translationRatio": 0.06518225893338125
   },
   {
     "languageCode": "ca_ES",
     "languageName": "Catalan",
     "languageNativeName": "Català",
-    "translationRatio": 0.34368827437601
+    "translationRatio": 0.343508708924403
   },
   {
     "languageCode": "cs_CZ",
     "languageName": "Czech",
     "languageNativeName": "čeština",
-    "translationRatio": 0.15981325193032858
+    "translationRatio": 0.15963368647872145
   },
   {
     "languageCode": "da_DK",
     "languageName": "Danish",
     "languageNativeName": "dansk",
-    "translationRatio": 0.031244388579637294
+    "translationRatio": 0.03106482312803016
   },
   {
     "languageCode": "de_DE",
     "languageName": "German",
     "languageNativeName": "Deutsch",
-    "translationRatio": 0.7091039683964806
+    "translationRatio": 0.7103609265577303
   },
   {
     "languageCode": "el_GR",
     "languageName": "Greek",
     "languageNativeName": "Ελληνικά",
-    "translationRatio": 0.27617166457173636
+    "translationRatio": 0.27599209912012934
   },
   {
     "languageCode": "en",
@@ -77,7 +77,7 @@ module.exports = [
     "languageCode": "es_ES",
     "languageName": "Spanish",
     "languageNativeName": "Español",
-    "translationRatio": 0.9861734602262525
+    "translationRatio": 0.9863530256778595
   },
   {
     "languageCode": "fa_IR",
@@ -101,7 +101,7 @@ module.exports = [
     "languageCode": "fr_FR",
     "languageName": "French",
     "languageNativeName": "Français",
-    "translationRatio": 0.9813251930328605
+    "translationRatio": 0.9824025857425032
   },
   {
     "languageCode": "ha_HG",
